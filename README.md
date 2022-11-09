@@ -36,6 +36,10 @@
 <br /> ![image](https://user-images.githubusercontent.com/88322853/200948262-c9acf2c4-841a-4b68-bccd-c10669f70452.png)
 <br /> 
 <br />
+<br /> The user can click on any of the visuals on any of the pages and the report will filter all the other visuals accordingly to provide a better view of the data.
+<br />![image](https://user-images.githubusercontent.com/88322853/200950133-ce58301f-8b1c-4eda-b252-be7d0f8dd1c1.png)
+<br />
+<br />
 ## Reference list.
 <br /> The reference list is present in the 
 
