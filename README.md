@@ -29,10 +29,10 @@
 <br />
 <br />
 ## Device Registration page.
-<br /> The device registration page shows the number of devices that have been registered in a certain timespam.
+<br /> 1) The device registration page shows the number of devices that have been registered in a certain timespam.
 <br /> ![image](https://user-images.githubusercontent.com/88322853/200948205-c54a6f63-3dd6-4909-8560-4123bcd99442.png)
 <br />
-<br /> The device registration page also shows the user visuals about how many different categories have been created.
+<br /> 2) The device registration page also shows the user visuals about how many different categories have been created.
 <br /> ![image](https://user-images.githubusercontent.com/88322853/200948262-c9acf2c4-841a-4b68-bccd-c10669f70452.png)
 <br /> 
 <br />
